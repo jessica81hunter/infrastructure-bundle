@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ee004ab78e2f47329ff476d9fe695f11)](https://app.codacy.com/gh/jessica81hunter/infrastructure-bundle?utm_source=github.com&utm_medium=referral&utm_content=jessica81hunter/infrastructure-bundle&utm_campaign=Badge_Grade_Settings)
 [![Community Plus header](https://github.com/newrelic/opensource-website/raw/master/src/images/categories/Community_Plus.png)](https://opensource.newrelic.com/oss-category/#community-plus)
 
 # New Relic infrastructure monitoring bundle
